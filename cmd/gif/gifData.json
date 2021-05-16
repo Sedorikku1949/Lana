@@ -1,0 +1,94 @@
+{
+  "honteux": {
+    "gifs": [
+      "https://media1.tenor.com/images/ddc91e2ba004a18078a6bc175a9817c7/tenor.gif"
+    ],
+    "text": "{user} **trouve ça honteux**",
+    "color": "#FF0000"
+  },
+  "happy": {
+    "gifs": [
+      "https://media1.tenor.com/images/ae9cd12839bf350788a96fc861d9fa1e/tenor.gif",
+      "https://media1.tenor.com/images/5058becbc08db2e52f62d33bc658ca61/tenor.gif",
+      "https://media1.tenor.com/images/0bf55bd6dd24548e2342f424052834c6/tenor.gif",
+      "https://media1.tenor.com/images/c7404cbd48de7974daa04cfb8d3ad0d8/tenor.gif"
+    ],
+    "text": "{user} **est heureux**",
+    "color": "#B6FF00"
+  },
+  "love": {
+      "gifs": [
+        "https://media1.tenor.com/images/0cc594a8fbe6f748a2fd05db9521602d/tenor.gif",
+        "https://media1.tenor.com/images/a4dd9de6f3b67059d6c0d3df63245bc1/tenor.gif",
+        "https://media1.tenor.com/images/65ef077bbae314e935a61f1ab77c8d5b/tenor.gif",
+        "https://media1.tenor.com/images/8d6ef16e990ece98cf738b1387d9d9a8/tenor.gif",
+        "https://media1.tenor.com/images/8cb8152584d7211cb49f2a9cfbbd9ece/tenor.gif",
+        "https://media1.tenor.com/images/044b30f7a2b6416262b9ab9c3b21c033/tenor.gif",
+        "https://media1.tenor.com/images/caa0f445feb550d64a6ba332b0203817/tenor.gif",
+        "https://media1.tenor.com/images/5ac5a46fe4b36b3d5ed18f46c666cb4f/tenor.gif"
+      ],
+      "text": "{user} **est sous le charme de** {second}",
+      "color": "#F639FF"
+  },
+  "dance": {
+      "gifs": [
+          "https://media1.tenor.com/images/97e90d8d33c475969c8f07106d4a5341/tenor.gif",
+          "https://media1.tenor.com/images/1898f99ff4ce6348bb0738c28d2e2894/tenor.gif",
+          "https://media1.tenor.com/images/e19a05faf32c511572acd08a38bebdd6/tenor.gif",
+          "https://media1.tenor.com/images/94e8fa5a90f0b69245f0edf2b6b8ad01/tenor.gif"
+      ],
+      "text": "{user} **danse comme un dieu**",
+      "color": "#39EAFF"
+  },
+  "angry": {
+      "gifs": [
+          "https://media1.tenor.com/images/386fb4996e952415422e4de3f7ff9273/tenor.gif",
+          "https://media1.tenor.com/images/c9621659a410d0e6ca31eb66ce213a09/tenor.gif",
+          "https://media1.tenor.com/images/1c8acf14af9e107ba14834835f5b4f59/tenor.gif",
+          "https://media1.tenor.com/images/52c4d55c27725df1b0a35178ad7cbc08/tenor.gif"
+      ],
+      "text": "**Il semblerait que** {user} **est enervé**",
+      "color": "#FF7839"
+  },
+  "sad": {
+      "gifs": [
+          "https://media1.tenor.com/images/a892784674818166e8a83c74e5a54a49/tenor.gif",
+          "https://media1.tenor.com/images/0b1441502ddc1dacfc74ccf82eb32d2d/tenor.gif",
+          "https://media1.tenor.com/images/3d4b4dee9ced06f02719221e59015b52/tenor.gif",
+          "https://media1.tenor.com/images/bd12049a42d567cd5cf76f06a5b8925c/tenor.gif"
+      ],
+      "text": "**Pourquoi vous faites pleurer** {user} **?**",
+      "color": "#6B6C92"
+  },
+  "punch": {
+      "gifs": [
+          "https://media1.tenor.com/images/6ad4aa0988edb070285bc756a27d446c/tenor.gif",
+          "https://media1.tenor.com/images/0e5bef072baae3b32f2e7aaa446baad2/tenor.gif",
+          "https://media1.tenor.com/images/d39cd6fea31854a8f4ec830a07a0880c/tenor.gif",
+          "https://media1.tenor.com/images/a085a6c1e33cf34431f03072ab0ebfd5/tenor.gif",
+          "https://media1.tenor.com/images/194f647537e20c75dfec1571b589e1c4/tenor.gif"
+      ],
+      "text": "**J'aimerais pas être à place de celui qui a recu une droite de** {user}",
+      "color": "#6FD095"
+  },
+  "boom": {
+    "gifs": [
+      "https://media1.tenor.com/images/8a36709ada0a6638d4b64c8a1a4b25d7/tenor.gif",
+      "https://media1.tenor.com/images/f7bd9d067b22266aa61c53f38cf736a9/tenor.gif",
+      "https://media1.tenor.com/images/c6f18f74312753f493ef26b6d6ed737b/tenor.gif"
+    ],
+    "text": "{user} **as tu détruit !**",
+    "color": "#7D7D7D"
+  },
+  "hug": {
+    "gifs": [
+      "https://media1.tenor.com/images/090a2de29b5361e640b4bc70257e7ec6/tenor.gif",
+      "https://media1.tenor.com/images/3c0825bdb8192fd29a3e1e2a7c1c0275/tenor.gif",
+      "https://media1.tenor.com/images/c57d2ebc94f531643a24770c64e72811/tenor.gif",
+      "https://media1.tenor.com/images/37c4f60c9a8926d8425f5a0795856b1a/tenor.gif",
+      "https://media1.tenor.com/images/f3f1e9565da2749c2c5787d1c9bf38d7/tenor.gif"
+    ],
+    "text": "{user} **fait un gros calin à** {second}",
+    "color": "#9EB7FF"
+  }
+}
