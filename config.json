@@ -1,0 +1,15 @@
+{
+  "token": "NzkwMjM2MzgyMjcwMzI0NzY3.X99q-w.goqdDVHSHobozGiQ5RXQXffI0OU",
+  "prefix": [ "." ],
+  "dev": ["452492894025023506", "782164174821523467", "550041732893376542", "655325670238453785", "662301431025631250"],
+  "ensure": {
+    "xp": { "xp": 0, "lvl": 0, "cooldown": 0 },
+    "money": { "cash": 0, "daily": false, "hebdo": false, "hourly": false, "fish": false, "work": false },
+    "score": 0,
+    "bio": { "desc": false, "marryID": false, "badges": [] },
+    "sanctions": { "ban": [], "warn": [], "kick": [], "notes": [], "mute": [], "avertissements": { "badword": 0, "invites": 0, "spam": 0 } },
+    "guild": { "id": false, "pts": 0, "inv": [], "buy": [] },
+    "invite": { "join": 0, "leave": 0 },
+    "id": false
+  }
+}

@@ -1,0 +1,121 @@
+[
+ {
+  "name": "Hiboux Inc",
+  "members": [
+   {
+    "rank": "responsable",
+    "id": "622482167896997889"
+   },
+   {
+    "rank": "member",
+    "id": "782164174821523467"
+   },
+   {
+    "rank": "member",
+    "id": "499644746596352011"
+   }
+  ],
+  "banner": null,
+  "description": "Une guild créer par val.#4948",
+  "icon": null,
+  "id": 1619630674085,
+  "pts": {
+   "pgg": 0,
+   "pgm": 7306
+  },
+  "rank": 1,
+  "rankRappel": false,
+  "lvl": 9,
+  "bonus": {
+   "xp": 1,
+   "money": 1,
+   "pgm": 1
+  },
+  "createdTimestamp": 1619630674085,
+  "server": null,
+  "author": "622482167896997889",
+  "responsable": "622482167896997889"
+ },
+ {
+  "name": "Miku Gang",
+  "members": [
+   {
+    "rank": "responsable",
+    "id": "737582542991130626"
+   },
+   {
+    "rank": "member",
+    "id": "734792009671376998"
+   },
+   {
+    "rank": "member",
+    "id": "550041732893376542"
+   },
+   {
+    "rank": "member",
+    "id": "582003713040973845"
+   }
+  ],
+  "banner": null,
+  "description": "Une guild créer par [Dis0xyne] Achyx#0001",
+  "icon": null,
+  "id": 1620318247174,
+  "pts": {
+   "pgg": 0,
+   "pgm": 4745
+  },
+  "rank": 1,
+  "rankRappel": false,
+  "lvl": 6,
+  "bonus": {
+   "xp": 1,
+   "money": 1,
+   "pgm": 1
+  },
+  "createdTimestamp": 1620318247174,
+  "server": null,
+  "author": "737582542991130626",
+  "responsable": "737582542991130626"
+ },
+ {
+  "name": "Gremlins Corp",
+  "members": [
+   {
+    "rank": "responsable",
+    "id": "361436201535668224"
+   },
+   {
+    "rank": "member",
+    "id": "452492894025023506"
+   },
+   {
+    "rank": "member",
+    "id": "491631704763531264"
+   },
+   {
+    "rank": "member",
+    "id": "662301431025631250"
+   }
+  ],
+  "banner": null,
+  "description": "une guild créer par Ɠîžм㋡3σσ6#6003",
+  "icon": null,
+  "id": 1619629771619,
+  "pts": {
+   "pgg": 0,
+   "pgm": 3036
+  },
+  "rank": 1,
+  "rankRappel": false,
+  "lvl": 4,
+  "bonus": {
+   "xp": 1,
+   "money": 1,
+   "pgm": 1
+  },
+  "createdTimestamp": 1619629771619,
+  "server": null,
+  "author": "361436201535668224",
+  "responsable": "361436201535668224"
+ }
+]
