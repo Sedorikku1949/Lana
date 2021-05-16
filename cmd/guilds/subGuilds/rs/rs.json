@@ -1,0 +1,10 @@
+{
+    "rs": [
+        { "name": "Rank supérieur", "price": 2000, "conditions": { "members": 2, "pgm": 0, "creationLimit": 604800000 }, "id": "1" },
+        { "name": "Bonus de 5% d'xp", "price": 20000, "conditions": { "members": 5, "pgm": 0, "creationLimit": 0 }, "id": "2" },
+        { "name": "Bonus de 5% d'argent", "price": 30000, "conditions": { "members": 2, "pgm": 0, "creationLimit": 604800000 }, "id": "3" },
+        { "name": "Bonus de 1% de pgm", "price": 10000, "conditions": { "members": 4, "pgm": 20000, "creationLimit": 1296000000 }, "id": "4" },
+        { "name": "Une description personnalisée pour la guild", "price": 1000, "conditions": { "members": 2, "pgm": 0, "creationLimit": 0 }, "id": "5" },
+        { "name": "Une icon personnalisé pour la guild", "price": 500, "conditions": { "members": 3, "pgm": 0, "creationLimit": 0 }, "id": "6" }
+    ]
+}

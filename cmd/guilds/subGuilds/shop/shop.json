@@ -1,0 +1,10 @@
+{
+    "userShop": [
+        { "item": "Bonus d'xp pour la guild.", "description": "Confère un bonus d'xp pour les membres de la guild de 1%.", "price": 5000, "conditions" : { "role": false, "money": 0, "xp": 2500 }, "id": "1", "reduction": [] },
+        { "item": "Bonus de money pour la guild.", "description": "Confère un bonus d'argent pour les membres de la guild de 1%.", "price": 7000, "conditions" : { "role": false, "money": 10000, "xp": 0 }, "id": "2", "reduction": [{"role": "782235568003874819", "pourcentage": 0.9 }] },
+        { "item": "Un magnifique bague pour ta copine/ton copain.", "description": "Une bague, mais pour quoi faire ? Qui sais...", "price": 10000, "conditions" : { "role": false, "money": 0, "xp": 0 }, "id": "3", "reduction": [{"role": "782235568003874821", "pourcentage": 0.8 }] },
+        { "item": "Une guilde", "description": "Une guilde, tout à fait normal :D", "price": 50000, "conditions" : { "role": "782235568003874820", "money": 0, "xp": 5000 }, "id": "4", "reduction": [{"role": "782235568003874823", "pourcentage": 0.6 }] },
+        { "item": "Un ticket pour le casino", "description": "Un ticket pour utiliser le casino une fois :D", "price": 100, "conditions" : { "role": false, "money": 0, "xp": 0 }, "id": "5", "reduction": [{"role": "782235568003874821", "pourcentage": 0.9 }] }
+    ],
+    "guildShop": []
+}
